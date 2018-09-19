@@ -1,5 +1,7 @@
 # rocnikova_prace
 
+Detektor kovu
+
 Požadavky:
 
 Arduino Uno
